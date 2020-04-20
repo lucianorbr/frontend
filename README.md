@@ -8,3 +8,8 @@ Utilizando API desenvolvida em NodeJS com bando de dados Mongo.
 
 Tela para criação de novo spot, onde a empresa informa seu ramo de atuação, determina um valor ou deixa em branco para gratuito, para que novos desenvolvedores possam pedir acesso ao ambiente fisico da empresa para vivenciar o dia a dia da mesma.
 
+
+![Captura de tela de 2020-04-20 18-22-21](https://user-images.githubusercontent.com/24936196/79801231-1f023d80-8334-11ea-8a75-e9ec2abd12c1.png)
+
+
+
